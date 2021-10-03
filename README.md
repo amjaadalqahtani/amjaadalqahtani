@@ -1,4 +1,4 @@
 # amjaadalqahtani
 Hi, I'm Amjad :seedling:
 
-Misk Academy Data Science Trainee 2021
+Misk Skills Data Science Immersive 2021
